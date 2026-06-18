@@ -963,7 +963,8 @@ export function DemoAdminDashboard({ className }: DemoAdminDashboardProps) {
                       <Lock className="h-3 w-3" />
                       Payload Decryption Notes
                     </p>
-                    This payload is fully end-to-end encrypted on-chain. Bob Demo decrypted it using the ephemeral session key exchanged via Curve25519 and his private identity key.
+                    This payload is fully end-to-end encrypted on-chain. Bob Demo decrypted it using
+                    the ephemeral session key exchanged via Curve25519 and his private identity key.
                   </div>
                 )}
               </div>
